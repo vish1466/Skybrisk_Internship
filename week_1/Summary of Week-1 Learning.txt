@@ -1,0 +1,9 @@
+Summary of Week-1 Learning :
+
+- Learnt about variables, data types (int, str, float, bool), operators (+,/,*,-,**,//,%), input and output, (if, else, elif), for loops, while loops
+
+- Hands-on Practice :
+	- Learnt how to create a function to calculate few mathematical operations
+	- Learnt how to create a function to convert temperature scales
+
+- Learning and practicing fundamentals improved my understanding of python and coding
