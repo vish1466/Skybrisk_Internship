@@ -1,0 +1,11 @@
+Summary of Week 4 Learnings:
+
+- Learnt about various types of plots present in matplotlib and seaborn such as :
+	- line plot, bar plot, histogram, pie chart, heatmap, scatterplots
+
+- Learnt on how to create visualization with varying customizable parameters such as marker size, font size, color, hue etc
+
+- Learnt about how to create multiple plots in a single display and also created a pair plot
+
+
+
