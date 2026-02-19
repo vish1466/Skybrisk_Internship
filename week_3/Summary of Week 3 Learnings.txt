@@ -1,0 +1,12 @@
+Week 3 : NumPy and Pandas for Data Manipulation
+
+- Learnt about many functions and methods to access data in indexed tables and modify them
+
+- Learnt about how the data is processed using functions like "dropna", "fillna", "agg", "drop_duplicates" etc
+
+- Worked on small datasets and performed operations on them
+
+- Cleaned up a dataset by removing the missing values and calculating the averages for a particular column
+
+
+
