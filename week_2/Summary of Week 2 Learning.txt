@@ -1,0 +1,14 @@
+Summary of Week 2 Learning :
+
+- Learnt about the various data structures present in python, such as:
+	-Lists, Tuples, Dictionaries, Sets
+
+- Learnt about initialization and scope of a function
+
+-Learnt about lambda functions and recursion of functions
+
+- Learnt about List Comprehension
+
+- Worked on creating functions related to data transformations and mathematical operations
+
+- Completed the script to clean data by removing duplicates and filtering data by a threshold
